@@ -10,6 +10,8 @@ This is a simple Linktree made with Html and Css to share my networks and my wor
 
 ## Preview
 
-link
+<p align="center">
+  <img width="500" src="./.github/preview.png">
+</p>
 
 **Thank you for your interest in this project. :smile:**
