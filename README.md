@@ -1,15 +1,15 @@
-# Project Name :flags:
+# Linktree :evergreen_tree:
 
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
 
-The goal of this project is to create
+This is a simple Linktree made with Html and Css to share my networks and my work more easily.
 
-<!-- GETTING STARTED -->
+> Link to see the linktree: https://clement-fernandes.github.io/linktree/##
 
-## Getting Started
+## Preview
 
-### Prerequisites
+link
 
 **Thank you for your interest in this project. :smile:**
